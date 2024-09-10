@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF75DB81-6B09-44C7-B4E2-2D88B18C8956}|ColorNoteAppTesting\\ColorNoteAppTesting.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing\\colornoteapptesting\\colornoteapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF75DB81-6B09-44C7-B4E2-2D88B18C8956}|ColorNoteAppTesting\\ColorNoteAppTesting.csproj|solutionrelative:colornoteapptesting\\colornoteapptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD349053-3C9E-4449-8A7B-63D110DFEFEA}|Appium_Testing.csproj|c:\\users\\stef\\documents\\stef\\softuni\\front-end-auto\\resources\\appium\\appiumtests\\appium_testing\\sumatorapppomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD349053-3C9E-4449-8A7B-63D110DFEFEA}|Appium_Testing.csproj|solutionrelative:sumatorapppomtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumatorAppPOMTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing\\SumatorAppPOMTests.cs",
+              "RelativeDocumentMoniker": "SumatorAppPOMTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing\\SumatorAppPOMTests.cs",
+              "RelativeToolTip": "SumatorAppPOMTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:19:54.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorNoteAppTests.cs",
+              "DocumentMoniker": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing\\ColorNoteAppTesting\\ColorNoteAppTests.cs",
+              "RelativeDocumentMoniker": "ColorNoteAppTesting\\ColorNoteAppTests.cs",
+              "ToolTip": "C:\\Users\\Stef\\Documents\\Stef\\SoftUni\\Front-end-Auto\\Resources\\Appium\\AppiumTests\\Appium_Testing\\ColorNoteAppTesting\\ColorNoteAppTests.cs*",
+              "RelativeToolTip": "ColorNoteAppTesting\\ColorNoteAppTests.cs*",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:19:08.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
