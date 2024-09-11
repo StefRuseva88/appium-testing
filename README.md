@@ -7,3 +7,7 @@
 
 ### This is a test project for Front-End Test Automation July 2024 Course @ SoftUni
 
+## Overview
+This repository demonstrates how to automate testing of Android mobile applications using **Appium** and **Page Object Model (POM)**.
+
+
