@@ -11,6 +11,8 @@
 This repository demonstrates how to automate testing of Android mobile applications using **Appium** and **Page Object Model (POM)**.
 
 ## 1. "Summator" Page Object Model (POM)
+ **Summator** is a simple calculator Android application. The app allows users to perform simple arithmetic operations.
+
 ### 1.1 Automated Testing Scenario
 
 The testing scenario involves the following steps:
