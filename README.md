@@ -46,17 +46,6 @@ To run tests, follow these steps to configure Appium Inspector:
 Using Appium Inspector, retrieve the IDs of the elements you need for testing, such as text fields, buttons, etc. For example:
 - Click on a field, and the ID will be displayed in the "Selected Element" panel.
 
-### 1.4 Refactor Tests from Non-POM to POM
-
-- **Identify Elements and Actions:**  
-  Locate elements like `field1`, `field2`, `buttonCalc`, and `result`, as well as actions like clearing fields, sending keys, and clicking the calculate button.
-
-- **Create Page Object Classes:**  
-  Move the identified elements and actions into a new class following the POM pattern.
-
-- **Update the Test Class:**  
-  In the test class, instantiate the `SummatorPOM` object in the setup method and replace direct element interactions with calls to POM methods.
-
 ## 2. ColorNote App
 
 The **ColorNote** app is a simple notepad application that allows users to create, edit, and delete notes. We will create automated tests for various scenarios in this app.
