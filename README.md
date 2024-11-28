@@ -110,9 +110,6 @@ Create tests in **Visual Studio** using NUnit and Appium:
 
 - **Test to Delete a Note:**
   - Delete a note and verify it is removed from the app.
-    
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
